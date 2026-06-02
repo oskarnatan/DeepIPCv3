@@ -1,5 +1,5 @@
 # DeepIPCv3
-DeepIPCv3: Event-Aware Multi-Modal Sensor Fusion for Sudden Pedestrian Crossing Avoidance
+O. Natan, A. Dharmawan, A. Z. K. Frisky, J. E. Istiyanto, and J. Miura, "DeepIPCv3: Event-Aware Multi-Modal Sensor Fusion for Sudden Pedestrian Crossing Avoidance", arXiv:2606.01277. https://arxiv.org/abs/2606.01277
 
 Some Records:\
 Noon:\
